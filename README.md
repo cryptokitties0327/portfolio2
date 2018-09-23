@@ -103,5 +103,14 @@ Component files: A website is made up of many different files, which are like th
 - The development of internet has changed the world. Online store has disrupted the retail industry. We’re also seeing digital continue to influence changes in the way consumers shop:
 
 - Visits to retail websites via mobile devices overtook desktop traffic for the first time.
-- 
+  
 - In the US, Europe and Australia, online shopping continues to grow at a much faster rate than retail generally.
+
+
+#### References
+
+- www.ecommerceweek.co.uk/news/461/mobile-overtakes-desktop-traffic/
+- US: www.mcgrathnicol.com/app/uploads/McGrathNicol-Whats-News-In-Retail-FY2016-Review.pdf
+- UK: www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/nov2016
+- Europe: 
+ www.retailresearch.org/onlineretailing.php
